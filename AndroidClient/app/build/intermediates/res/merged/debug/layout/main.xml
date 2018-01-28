@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	 android:orientation="vertical"
+	 android:layout_width="fill_parent"
+	 android:layout_height="fill_parent"
+	 android:background="@drawable/background1"
+	android:weightSum="1">
+
+	<TextView
+		 android:layout_width="fill_parent"
+		 android:layout_height="wrap_content"
+		 android:text="@string/hello"
+		 android:textSize="24sp"
+		 android:textColor= "#1B0C48"
+		 android:id="@+id/textView" />
+
+	<TextView
+		android:id="@+id/Accelerometer"
+		android:text="Accelerometer Data"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="22sp"
+		android:textColor= "#0F20BA"
+		android:layout_marginLeft="25dp"/>
+
+	<TextView
+		android:id="@+id/xcoor1"
+		android:text="X Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"/>
+
+	<TextView
+		android:id="@+id/ycoor1"
+		android:text="Y Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"/>
+
+	<TextView
+		android:id="@+id/zcoor1"
+		android:text="Z Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"
+	/>
+	<TextView
+		android:id="@+id/Magnetometer"
+		android:text="Magnetometer Data"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="22sp"
+		android:textColor= "#0F20BA"
+		android:layout_marginLeft="25dp"
+	/>
+	<TextView
+		android:id="@+id/xcoor2"
+		android:text="X Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"
+	/>
+	<TextView
+		android:id="@+id/ycoor2"
+		android:text="Y Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"
+	/>
+	<TextView
+		android:id="@+id/zcoor2"
+		android:text="Z Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"
+
+		/>
+	<TextView
+		android:id="@+id/locationData"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Location Data"
+		android:textSize="22sp"
+		android:textColor= "#0F20BA"
+		android:layout_marginLeft="25dp"
+		/>
+
+	<TextView
+		android:id="@+id/latitude"
+		android:text="Latitude: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"
+		/>
+	<TextView
+		android:id="@+id/longitude"
+		android:text="Longitude: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"
+		/>
+
+	<TextView
+		android:id="@+id/yourCurrentLocation"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Your Current location address  is: "
+		android:textSize="22sp"
+		android:textColor= "#0F20BA"
+		android:layout_marginLeft="25dp" />
+	<TextView
+		android:id="@+id/myLocationText"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Current Address  Will replace this"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+		android:layout_marginLeft="35dp"
+		 />
+
+	<Button
+		android:id="@+id/send"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="Send"
+		android:textSize="22sp"
+		android:textColor= "#099BD5"
+		/>
+	<TextView
+		android:id="@+id/textin"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:textSize="18sp"
+		android:textColor= "#066481"
+
+		/>
+
+
+</LinearLayout>
+

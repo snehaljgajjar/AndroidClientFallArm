@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\Snehal\\AndroidStudioProjects\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\Snehal\\AndroidStudioProjects\\AndroidClient\\AndroidClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 131,
+                        "endColumn": 52,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 70,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "C:\\Users\\Snehal\\AndroidStudioProjects\\AndroidClient\\AndroidClient\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 70,
+                        "endOffset": 125
+                    }
+                }
+            }
+        ]
+    }
+]

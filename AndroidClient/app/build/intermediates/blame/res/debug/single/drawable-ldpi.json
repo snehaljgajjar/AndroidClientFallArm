@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Snehal\\AndroidStudioProjects\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Users\\Snehal\\AndroidStudioProjects\\AndroidClient\\AndroidClient\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Snehal\\AndroidStudioProjects\\AndroidClient\\AndroidClient\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\Snehal\\AndroidStudioProjects\\AndroidClient\\AndroidClient\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    }
+]

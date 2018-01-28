@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+
+	<TableRow>
+	<TextView
+		android:id="@+id/Accelerometer"
+		android:text="Accelerometer Data"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	/>
+	</TableRow>
+	<TableRow>
+	<TextView
+		android:id="@+id/xcoor1"
+		android:text="X Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	/>
+	</TableRow>
+
+	<TableRow>
+	<TextView
+		android:id="@+id/ycoor1"
+		android:text="Y Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	/>
+	</TableRow>
+
+	<TableRow>
+	<TextView
+		android:id="@+id/zcoor1"
+		android:text="Z Coordinate: "
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	/>
+	</TableRow>
+
+
+	<TableRow>
+		<TextView
+			android:id="@+id/Magnetometer"
+			android:text="Magnetometer Data"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+	</TableRow>
+	<TableRow>
+		<TextView
+			android:id="@+id/xcoor2"
+			android:text="X Coordinate: "
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+	</TableRow>
+
+	<TableRow>
+		<TextView
+			android:id="@+id/ycoor2"
+			android:text="Y Coordinate: "
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+	</TableRow>
+	<TableRow>
+		<TextView
+			android:id="@+id/zcoor2"
+			android:text="Z Coordinate: "
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			/>
+	</TableRow>
+
+</TableLayout>
